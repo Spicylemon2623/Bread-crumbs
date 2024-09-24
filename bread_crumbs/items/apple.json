@@ -1,0 +1,8 @@
+{
+   "id": "bc:apple",
+   "itemProperties": 
+   {
+       "texture": "bread_crumbs:textures/items/apple.png",
+       "modelType": "base:item3D"
+   }
+}

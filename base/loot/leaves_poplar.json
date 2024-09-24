@@ -1,0 +1,17 @@
+{
+    "id": "base:loot_leaves_poplar",
+    "options": [
+        {
+            "weight": 0.9,
+            "stacks":[{ "id": "base:leaves_poplar[type=permanent]", "max": 1 }]
+        },
+        {
+            "weight": 0.1,
+            "stacks":[{ "id": "base:sapling_poplar[growth=0]", "max": 1 }]
+        },
+	{
+	    "weight": 0.1,
+	    "stacks":[{ "id": "bc:apple", "max": 2}]
+	}
+    ]
+}
