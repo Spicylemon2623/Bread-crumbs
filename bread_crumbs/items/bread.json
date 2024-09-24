@@ -1,0 +1,8 @@
+{
+   "id": "bc:bread",
+   "itemProperties": 
+   {
+       "texture": "bread_crumbs:textures/items/bread.png",
+       "modelType": "base:item3D"
+   }
+}
